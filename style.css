@@ -1339,8 +1339,3 @@ img {
 a {
     color: inherit;
 }
-.w3-topbar img {
-    display: block; /* Évite l'espace sous l'image */
-    max-width: 100%; /* Pour que l'image ne déborde pas */
-    height: auto; /* Garde le ratio de l'image */
-}
